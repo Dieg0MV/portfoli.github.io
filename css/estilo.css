@@ -1,0 +1,80 @@
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding: 0;
+  background-color: hsla(288, 6%, 34%, 0.561); 
+ /*  background-image: url("https://images8.alphacoders.com/105/1054256.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  font-family:'Courier New', Courier, monospace;
+}
+
+
+/* Global */
+.container{
+  display: flex;
+  width:80%;
+  margin:auto;
+  overflow:hidden; 
+  justify-content: center;
+  
+}
+ 
+#iam{
+  border-radius: 200px;
+ height: 150px;
+ width: 150px;
+}
+
+h1{
+  text-align: center;
+}
+
+.contac{  
+  text-align: center;
+}
+
+#w:hover{
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+#lk:hover{
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+#gm:hover{
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.aut img{
+  height: 300px;
+  width: 300px;
+  
+  float: left;
+
+}
+.aut{
+  background-color: blueviolet;
+}
+.auts p{
+  display: flex;
+  color: rgb(0, 0, 0);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',;
+
+}
+
+.email-spam{
+  position: relative;
+  top: 250px;
+  left: -300px; 
+  
+}
+.email-spam img{
+
+  height: 300px;
+  width: 300px;
+  float: left;
+
+}
