@@ -100,6 +100,10 @@ html {
   color: rgb(0, 0, 0);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',;
 }
+#how{
+  text-align: center;
+  font-family: 'Helvetica', sans-serif;
+}
 
 .email-spam{
   text-align: center;
